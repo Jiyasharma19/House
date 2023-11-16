@@ -1,0 +1,21 @@
+{
+    "name": "Needle.Engine.TypescriptCodegen",
+    "rootNamespace": "Needle.Engine.Codegen",
+    "references": [
+        "GUID:f23f84078225740478820679864d14f7"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Microsoft.CodeAnalysis.dll",
+        "Microsoft.CodeAnalysis.CSharp.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

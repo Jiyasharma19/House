@@ -1,0 +1,10 @@
+{
+    "name": "com.needle.csharp-to-typescript",
+    "displayName": "Needle Engine C# \u2192 TypeScript",
+    "version": "0.1.0",
+    "description": "Package to convert C# \u2192 TypeScript components that can be use as a starting point for converting existing C# apps to Needle Engine",
+    "dependencies": {
+        "com.needle.engine-exporter": "2.50.0-pre",
+        "com.unity.code-analysis": "0.1.2-preview"
+    }
+}

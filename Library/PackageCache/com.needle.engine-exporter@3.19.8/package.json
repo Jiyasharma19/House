@@ -1,0 +1,48 @@
+{
+  "name": "com.needle.engine-exporter",
+  "version": "3.19.8",
+  "displayName": "Needle Engine",
+  "unity": "2021.3",
+  "npm": {
+    "@needle-tools/engine": "^3.19.8",
+    "three": "npm:@needle-tools/three@^0.154.3",
+    "@types/three": "0.154.0",
+    "@needle-tools/helper": "^1.4.0",
+    "@needle-tools/editor-sync": "2.0.1-beta",
+    "@needle-tools/needle-component-compiler": "^1.9.3"
+  },
+  "keywords": [
+    "Three.js",
+    "Export",
+    "Platform",
+    "Runtime",
+    "WebGL"
+  ],
+  "author": {
+    "name": "Needle",
+    "email": "hi@needle.tools",
+    "url": "https://needle.tools"
+  },
+  "category": "Libraries",
+  "type": "tool",
+  "dependencies": {
+    "com.needle.csharp-to-typescript": "0.1.0",
+    "org.khronos.unitygltf": "2.4.2-exp",
+    "com.unity.modules.animation": "1.0.0",
+    "com.unity.modules.unitywebrequest": "1.0.0",
+    "com.unity.modules.uielements": "1.0.0",
+    "com.unity.modules.video": "1.0.0",
+    "com.unity.shadergraph": "10.8.0",
+    "com.unity.timeline": "1.5.7",
+    "com.unity.test-framework": "1.1.31",
+    "com.unity.nuget.newtonsoft-json": "3.0.1",
+    "com.unity.sharp-zip-lib": "1.3.2-preview"
+  },
+  "samples": [
+    {
+      "displayName": "Samples Overview",
+      "description": "Displays all Needle Engine samples as a convenient list.",
+      "path": "Samples~"
+    }
+  ]
+}

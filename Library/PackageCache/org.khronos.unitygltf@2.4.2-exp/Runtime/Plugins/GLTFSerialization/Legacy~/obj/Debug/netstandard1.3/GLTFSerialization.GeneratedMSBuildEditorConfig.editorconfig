@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = GLTF
+build_property.ProjectDir = c:\git\needle-engine-dev\modules\needle-engine\modules\UnityGLTF\Runtime\Plugins\GLTFSerialization\Legacy~\

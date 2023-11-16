@@ -1,0 +1,17 @@
+{
+  "name": "new-npmdef",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "dependencies": {
+    "three-orbitcontrols": "^2.110.3"
+  },
+  "peerDependencies": {
+    "@needle-tools/engine": "^3.19.8",
+    "three": "npm:@needle-tools/three@^0.154.3"
+  },
+  "devDependencies": {
+    "@needle-tools/engine": "^3.19.8",
+    "@types/three": "0.154.0",
+    "three": "npm:@needle-tools/three@^0.154.3"
+  }
+}

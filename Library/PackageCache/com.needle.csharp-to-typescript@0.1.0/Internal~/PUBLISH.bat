@@ -1,0 +1,1 @@
+cd ../ && npm set registry https://packages.needle.tools && npm publish & pause
